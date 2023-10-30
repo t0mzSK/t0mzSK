@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 <h3 align="center">I am 19 years old IT enthusiast from Slovakia. I am intersted in cyber security, privacy/FOSS, Linux and networking.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomz00&label=Profile%20views&color=0e75b6&style=flat" alt="tomz00" /> </p>
-
 - 🔭 I’m currently working on [Grafana dashboard](https://github.com/tomz00/grafana-rtl_433-exporter)
 
 - 🌱 I’m currently learning **DevOps.**
