@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
-<h3 align="center">I am 19 years old IT enthusiast from Slovakia. I am intersted in cyber security, privacy/FOSS, Linux and networking.</h3>
+<h3 align="center">I am 19 years old IT enthusiast from Slovakia. I am interested in cyber security, privacy/FOSS, Linux and networking.</h3>
 
 - 🔭 I’m currently working on [Grafana dashboard](https://github.com/tomz00/grafana-rtl_433-exporter)
 
